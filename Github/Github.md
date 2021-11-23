@@ -1,4 +1,4 @@
-## Day 2
+## GitHub
 
 A Github kinda day! I leaned how to do what you see here by:
 - Downloading Github onto my laptop 

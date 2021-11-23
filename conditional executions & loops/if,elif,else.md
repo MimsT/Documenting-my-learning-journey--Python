@@ -1,6 +1,6 @@
-# Day 1
+# Day 0
 
-Technically this is not day 1, as I have been learning since October of 2021 (A month ago)
+First day of posting, as I have been learning since October of 2021 (A month ago)
 Today I am practising control flow: 
 If, else and elif.
 >Example of a simple code I created to calculate whether one is within the budget they set:
@@ -40,3 +40,4 @@ def divisible_by_ten(num):
 print(divisible_by_ten(20))
 
 print(divisible_by_ten(25))
+

@@ -22,8 +22,8 @@ print(say_greetings(["Minnie", "Fabian", "Sally"])) #call the function with a li
 """In the code below, the program is asked to delete the starting even numbers"""
 def delete_starting_evens(lst):
       while (len(lst) > 0 and lst[0] % 2 == 0): #As long as our parameter lst has more than 1 item AND its first number is even 
-    lst = lst[1:]   # then the list will now update to start from the first index (second item)
-  return lst
+        lst = lst[1:]   # then the list will now update to start from the first index (second item)
+      return lst
 
 #Uncomment the lines below when your function is done
 print(delete_starting_evens([4, 8, 10, 11, 12, 15]))
